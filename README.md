@@ -21,7 +21,7 @@ npm run build
 to bundle this application
 
 
-If you want to test this application run:
+If you want to test it run:
 
 ```
 npm run watch
