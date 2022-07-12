@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"noImplicitAny": true,
+		"module": "es6",
+		"target": "ESNext",
+		"allowJs": true,
+		"downlevelIteration": true,
+		"types": [
+			"babylonjs",
+			"babylonjs-gui",
+		],
+	  	"moduleResolution": "node",
+    },
+    "files": ["src/index.ts"]
+}
