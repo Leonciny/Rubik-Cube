@@ -1,15 +1,28 @@
-# 🚀 Welcome to your new awesome project!
+# Rubrik Cube!
 
-This project has been created using **webpack-cli**, you can now run
+3D Rubrik Cube made with babylonJS
+
+## dependecies
+
+To build this application you'll need these dependencies:
+ - Babylonjs
+ - Webpack
+
+to install them you can use npm or yarn if that's your cup of tea
+
+## How to Build
+
+Run
 
 ```
 npm run build
 ```
 
-or
+to bundle this application
+
+
+If you want to test this application run:
 
 ```
-yarn build
+npm run watch
 ```
-
-to bundle your application
